@@ -6,11 +6,10 @@
 Sou apaixonado por resolver problemas utilizando a programação e a prototipação do software.
 Sou um Front-End Developer.
 
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
- <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+ :rocket:  &nbsp; Estou fazendo Pós-Graduação em **Engenharia de Software** e sou formado em **Engenharia de Computação**.
+ <br/> :blush: &nbsp; Posso te ajudar com desenvolvimento de software e sua documentação.
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native.
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, gosto de ler, meu game favorito é o LoL e também curto alguns seriados.
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-adrielborgesti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrielborgesti/)](https://www.linkedin.com/in/adrielborgesti/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-adrieluca@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrieluca@gmail.com)](mailto:adrieluca@gmail.com)
