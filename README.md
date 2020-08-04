@@ -7,7 +7,7 @@ Estou em busca de desenvolver projetos incriveis, desde o menor e mais simples a
 
 
  :rocket:  &nbsp; Estou fazendo Pós-Graduação em **Engenharia de Software** e sou formado em **Engenharia de Computação**.
- <br/> :notebook:  &nbsp; Estou em constante aprendizado.
+ <br/> :notebook:  &nbsp; Em constante aprendizado.
  <br/> :blush:  &nbsp; Posso te ajudar com desenvolvimento de software e sua documentação.
  <br/> :scroll:  &nbsp; Desenvolvimento web com JavaScript, Css e HTML.
  <br/> :computer:  &nbsp; Minha stack: ReactJS, Node.js, React Native.
