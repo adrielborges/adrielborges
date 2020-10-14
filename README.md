@@ -16,5 +16,8 @@ Estou em busca de desenvolver projetos incriveis, desde o menor e mais simples a
 | 
 [![Gmail Badge](https://img.shields.io/badge/-adrieluca@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrieluca@gmail.com)](mailto:adrieluca@gmail.com)
 
+### Rocketseat
+https://app.rocketseat.com.br/me/adrielborges
+
 ### Portfólio online
 https://github.com/adrielborges/portfolio
