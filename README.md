@@ -1,4 +1,4 @@
-<img width="auto" src="https://repository-images.githubusercontent.com/284782932/3b08b280-d5a4-11ea-92ee-7f508311a02d">
+<img  width:"auto" src="https://repository-images.githubusercontent.com/284782932/3b08b280-d5a4-11ea-92ee-7f508311a02d">
 
 # Adriel Borges
 
@@ -10,7 +10,7 @@ Estou em busca de desenvolver projetos incriveis, desde o menor e mais simples a
  <br/> :notebook:  &nbsp; Em constante aprendizado.
  <br/> :blush:  &nbsp; Posso te ajudar com o seu projeto de software.
  <br/> 💬  &nbsp;  Sobre mim: Curto tecnologias, gosto de ler, gosto de viajar, sou natural do Rio de Janeiro, mas cresci em Belém do Pará.
-Sou apaixonado por tecnologias e amo desenvolver projetos com soluções de qualidade, Atualmente estou desenvolvendo como Front-end e as principais stacks de tecnologia que utilizo são React.Js, React-Native e no back-end com o Node.js. .
+Sou apaixonado por tecnologias e amo desenvolver projetos com soluções de qualidade, Atualmente estou desenvolvendo como Front-end e as principais stacks de tecnologia que utilizo são React.Js, React-Native e no back-end com o Node.js.
  <br/> :email: &nbsp;  Entre em contato comigo:
  <br/>
  [![Linkedin Badge](https://img.shields.io/badge/-adrielborgesti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriel-borgesti/)](https://www.linkedin.com/in/adriel-borgesti/) 
