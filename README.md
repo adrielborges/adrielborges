@@ -1,4 +1,4 @@
-<img width:"auto" src="https://repository-images.githubusercontent.com/284782932/3b08b280-d5a4-11ea-92ee-7f508311a02d">
+<img align="center" width="auto" src="https://repository-images.githubusercontent.com/284782932/3b08b280-d5a4-11ea-92ee-7f508311a02d">
 
 # Adriel Borges
 
