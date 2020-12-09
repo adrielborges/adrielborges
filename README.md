@@ -8,8 +8,9 @@ Estou em busca de desenvolver projetos incriveis, desde o menor e mais simples a
 
  :rocket:  &nbsp; Estou fazendo Pós-Graduação em **Engenharia de Software** e sou formado em **Engenharia de Computação**.
  <br/> :notebook:  &nbsp; Em constante aprendizado.
- <br/> :blush:  &nbsp; Posso te ajudar com desenvolvimento de software e sua documentação.
- <br/> 💬  &nbsp;  Sobre mim: Curto tecnologias, gosto de ler, meu game favorito é o LoL e também curto alguns seriados.
+ <br/> :blush:  &nbsp; Posso te ajudar com o seu projeto de software.
+ <br/> 💬  &nbsp;  Sobre mim: Curto tecnologias, gosto de ler, gosto de viajar, sou natural do Rio de Janeiro, mas cresci em Belém do Pará.
+Sou apaixonado por tecnologias e amo desenvolver projetos com soluções de qualidade, Atualmente estou desenvolvendo como Front-end e as principais stacks de tecnologia que utilizo são React.Js, React-Native e no back-end com o Node.js. .
  <br/> :email: &nbsp;  Entre em contato comigo:
  <br/>
  [![Linkedin Badge](https://img.shields.io/badge/-adrielborgesti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriel-borgesti/)](https://www.linkedin.com/in/adriel-borgesti/) 
