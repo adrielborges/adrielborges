@@ -60,6 +60,7 @@
 </center> 
 
 </div>
+
 --- 
 
 <div align="center">
@@ -93,4 +94,5 @@
 </div>
 
 ---
+
 <img align="center" alt="Discord - Adriel Lucas Borges#6211" src="https://img.shields.io/badge/-Discord-110F0E?style=flat-square&logo=Discord&logoColor=white&link=https://medium.com/@adrielluca&longCache=true"> **Adriel Lucas Borges #6211**
