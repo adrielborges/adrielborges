@@ -31,11 +31,12 @@
 
 💬  &nbsp; Sou Adriel Borges, sou natural do Rio de Janeiro, mas cresci e moro em Belém do Pará. Sou apaixonado por tecnologias e amo desenvolver projetos de software.
 
-:rocket:  &nbsp; Atualmente estou fazendo Pós-Graduação em **Engenharia de Software**, porém sou formado em **Engenharia de Computação**.
+:rocket:  &nbsp; Atualmente estou fazendo Pós-Graduação em **Engenharia de Software**, porém já sou formado em **Engenharia de Computação** e Técnico em Mecatrônica.
+
+💼 &nbsp; Trabalho como Engenheiro e Desenvolvedor **Fullstack**.
 
 📰  &nbsp;  Mais sobre mim: Curto novidades sobre tecnologias, gosto de ler, gosto de viajar, pratico espotes e E-esports.
 
-<br></br>
 ## :computer: Linguagens & Ferramentas:
 
 ![HTML](https://img.shields.io/badge/-HTML5-E96227?style=flat&logoColor=fff&logo=HTML5)&nbsp;
@@ -47,7 +48,6 @@
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![postgresql](https://img.shields.io/badge/-PostgreSQL-2D668E?style=flat&logoColor=fff&logo=postgresql)&nbsp;
 ![git](https://img.shields.io/badge/-Git-F04F33?style=flat&logoColor=fff&logo=git)&nbsp;
-
 
 <center>
   <table>
