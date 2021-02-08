@@ -2,7 +2,6 @@
 
 <h1 align="center"> Adriel Borges</h1> 
 
----
 <!-- <h3 align="center">Um Desenvolvedor de Software do Brasil</h3> -->
 
 <div align="center">
