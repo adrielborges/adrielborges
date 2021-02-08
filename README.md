@@ -29,21 +29,22 @@
 
 <h2 align="center"> Saudações 👋</h2> 
 
- 💬  &nbsp; Sou Adriel Borges, sou natural do Rio de Janeiro, mas cresci e moro em Belém do Pará. Sou apaixonado por tecnologias e amo desenvolver projetos de software.
+💬  &nbsp; Sou Adriel Borges, sou natural do Rio de Janeiro, mas cresci e moro em Belém do Pará. Sou apaixonado por tecnologias e amo desenvolver projetos de software.
 
- :rocket:  &nbsp; Atualmente estou fazendo Pós-Graduação em **Engenharia de Software**, porém sou formado em **Engenharia de Computação**.
-  <br/> 📰  &nbsp;  Mais sobre mim: Curto novidades sobre tecnologias, gosto de ler, gosto de viajar, pratico espotes e E-esports.
+:rocket:  &nbsp; Atualmente estou fazendo Pós-Graduação em **Engenharia de Software**, porém sou formado em **Engenharia de Computação**.
+
+📰  &nbsp;  Mais sobre mim: Curto novidades sobre tecnologias, gosto de ler, gosto de viajar, pratico espotes e E-esports.
 
 <br></br>
 ## :computer: Linguagens & Ferramentas:
 
+![HTML](https://img.shields.io/badge/-HTML5-E96227?style=flat&logoColor=fff&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-249CDA?style=flat&logoColor=fff&logo=CSS3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React.js-48CEF7?style=flat&logoColor=fff&logo=react)&nbsp;
 ![React-Native](https://img.shields.io/badge/-React_Native-0488B0?style=flat&logoColor=fff&logo=react)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML5-E96227?style=flat&logoColor=fff&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-249CDA?style=flat&logoColor=fff&logo=CSS3)&nbsp;
 ![postgresql](https://img.shields.io/badge/-PostgreSQL-2D668E?style=flat&logoColor=fff&logo=postgresql)&nbsp;
 ![git](https://img.shields.io/badge/-Git-F04F33?style=flat&logoColor=fff&logo=git)&nbsp;
 
