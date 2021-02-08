@@ -26,7 +26,7 @@
 ![](https://komarev.com/ghpvc/?username=adrielborges)
 
 
-<h2 align="center"> Saudações 👋</h2> 
+<h2 align="center"> 👋 Saudações </h2> 
 
 💬  &nbsp; Sou Adriel Borges, sou natural do Rio de Janeiro, mas cresci e moro em Belém do Pará. Sou apaixonado por tecnologias e amo desenvolver projetos de software.
 
@@ -35,6 +35,8 @@
 💼 &nbsp; Trabalho como Engenheiro e Desenvolvedor **Fullstack**.
 
 📰  &nbsp;  Mais sobre mim: Curto novidades sobre tecnologias, gosto de ler, gosto de viajar, pratico espotes e E-esports.
+
+<div align="center">
 
 ## :computer: Linguagens & Ferramentas:
 
@@ -57,10 +59,11 @@
   </table>
 </center> 
 
+</div>
 --- 
 
-<h4> Mais Links: </h4>
 <div align="center">
+<h4 > Mais Links: </h4>
 
 <a href="mailto:adrieluca@gmail.com" target="_blank" >
   <img  alt="Gmail - Adriel Borges" src="https://img.shields.io/badge/-adrielluca@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrielluca@gmail.com&longCache=true">
