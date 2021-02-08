@@ -61,6 +61,7 @@
 --- 
 
 <h4> Mais Links: </h4>
+<div align="center">
 
 <a href="mailto:adrieluca@gmail.com" target="_blank" >
   <img  alt="Gmail - Adriel Borges" src="https://img.shields.io/badge/-adrielluca@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrielluca@gmail.com&longCache=true">
@@ -86,6 +87,8 @@
 <a href="https://medium.com/@adrielluca" target="_blank" >
   <img  alt="Medium - Adriel Borges" src="https://img.shields.io/badge/-Medium-110F0E?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@adrielluca&longCache=true">
 </a>
+
+</div>
 
 ---
 <img align="center" alt="Discord - Adriel Lucas Borges#6211" src="https://img.shields.io/badge/-Discord-110F0E?style=flat-square&logo=Discord&logoColor=white&link=https://medium.com/@adrielluca&longCache=true"> **Adriel Lucas Borges #6211**
