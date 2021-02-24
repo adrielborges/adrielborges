@@ -12,11 +12,11 @@
 <div>
 
 <a href="https://github.com/adrielborges/portfolio" target="_blank" >
-  <img align="right" alt="Portfolio - adriel borges" src=https://img.shields.io/badge/-Portifólio-000?style=flat-square&logo=P&logoColor=white&link=https://github.com/adrielborges/portfolio">
+  <img align="right" alt="Portfolio - adriel borges" src="https://img.shields.io/badge/-Portifólio-000?style=flat-square&logo=P&logoColor=white&link=https://github.com/adrielborges/portfolio">
 </a>
 
 <a href="https://www.linkedin.com/in/adriel-borgesti" target="_blank" >
-  <img align="right" alt="Linkedin - Adriel Borges" src=https://img.shields.io/badge/-adrielborgesti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriel-borgesti">
+  <img align="right" alt="Linkedin - Adriel Borges" src="https://img.shields.io/badge/-adrielborgesti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriel-borgesti">
 </a>
 
 
@@ -43,61 +43,34 @@
 
 ## :computer: Linguagens & Ferramentas:
 
-<div class="columns">
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
-  
-![HTML](https://img.shields.io/badge/-HTML5-E96227?style=flat&logoColor=fff&logo=HTML5)&nbsp;
-
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E96227?style=flat&logoColor=fff&logo=HTML5">&nbsp;
 </a>
-
 <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-
-![CSS](https://img.shields.io/badge/-CSS-249CDA?style=flat&logoColor=fff&logo=CSS3)&nbsp;
-
+  <img alt="HTML5" src="https://img.shields.io/badge/-CSS-249CDA?style=flat&logoColor=fff&logo=CSS3">&nbsp;
 </a>
-
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-  
-![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=flat&logoColor=fff&logo=javascript)&nbsp;
-
+  <img alt="HTML5" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat&logoColor=fff&logo=javascript">&nbsp;
+</a>
 <a href="https://www.typescriptlang.org/">
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
-
+  <img alt="HTML5" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript">&nbsp;
 </a>
-
 <a href="https://pt-br.reactjs.org/">
-  
-![React](https://img.shields.io/badge/-React.js-48CEF7?style=flat&logoColor=fff&logo=react)&nbsp;
-
+  <img alt="HTML5" src="https://img.shields.io/badge/-React.js-48CEF7?style=flat&logoColor=fff&logo=react">&nbsp;
 </a>
-
 <a href="https://reactnative.dev/">
-  
-![React-Native](https://img.shields.io/badge/-React_Native-0488B0?style=flat&logoColor=fff&logo=react)&nbsp;
-
+  <img alt="React-Native" src="https://img.shields.io/badge/-React_Native-0488B0?style=flat&logoColor=fff&logo=react">&nbsp;
 </a>
-
 <a href="https://nodejs.org/en/">
-  
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-
+  <img alt="React-Native" src="https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js">&nbsp;
 </a>
-
 <a href="https://www.postgresql.org/">
-  
-![postgresql](https://img.shields.io/badge/-PostgreSQL-2D668E?style=flat&logoColor=fff&logo=postgresql)&nbsp;
-
+   <img alt="React-Native" src="https://img.shields.io/badge/-PostgreSQL-2D668E?style=flat&logoColor=fff&logo=postgresql">&nbsp;
 </a>
-
 <a href="https://git-scm.com/">
-  
-![git](https://img.shields.io/badge/-Git-F04F33?style=flat&logoColor=fff&logo=git)&nbsp;
-
+   <img alt="React-Native" src="https://img.shields.io/badge/-Git-F04F33?style=flat&logoColor=fff&logo=git">&nbsp;
 </a>
-
-</div
 
 <center>
   <table>
@@ -120,11 +93,11 @@
 </a>
 
 <a href="https://www.linkedin.com/in/adriel-borgesti" target="_blank" >
-  <img alt="Linkedin - Adriel Borges" src=https://img.shields.io/badge/-adrielborgesti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriel-borgesti">
+  <img alt="Linkedin - Adriel Borges" src="https://img.shields.io/badge/-adrielborgesti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriel-borgesti">
 </a>
 
 <a href="https://github.com/adrielborges/portfolio" target="_blank" >
-  <img alt="Portfolio - adriel borges" src=https://img.shields.io/badge/-Portifólio-000?style=flat-square&logo=P&logoColor=white&link=https://github.com/adrielborges/portfolio">
+  <img alt="Portfolio - adriel borges" src="https://img.shields.io/badge/-Portifólio-000?style=flat-square&logo=P&logoColor=white&link=https://github.com/adrielborges/portfolio">
 </a>
 
 <a href="https://twitter.com/Adrielborges_" target="_blank" >
