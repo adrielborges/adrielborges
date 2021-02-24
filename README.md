@@ -43,6 +43,8 @@
 
 ## :computer: Linguagens & Ferramentas:
 
+<div>
+
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
   
 ![HTML](https://img.shields.io/badge/-HTML5-E96227?style=flat&logoColor=fff&logo=HTML5)&nbsp;
@@ -94,6 +96,8 @@
 ![git](https://img.shields.io/badge/-Git-F04F33?style=flat&logoColor=fff&logo=git)&nbsp;
 
 </a>
+
+</div
 
 <center>
   <table>
