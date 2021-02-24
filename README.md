@@ -43,7 +43,7 @@
 
 ## :computer: Linguagens & Ferramentas:
 
-<div>
+<div class="columns">
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
   
