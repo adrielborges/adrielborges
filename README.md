@@ -9,6 +9,7 @@
 [ :rocket: Rocketseat - Perfil](https://app.rocketseat.com.br/me/adrielborges)
 </div>
 
+<div>
 
 <a href="https://github.com/adrielborges/portfolio" target="_blank" >
   <img align="right" alt="Portfolio - adriel borges" src=https://img.shields.io/badge/-Portifólio-000?style=flat-square&logo=P&logoColor=white&link=https://github.com/adrielborges/portfolio">
@@ -22,6 +23,8 @@
 <a href="mailto:adrieluca@gmail.com" target="_blank" >
   <img align="right" alt="Gmail - Adriel Borges" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrielluca@gmail.com&longCache=true">
 </a>
+
+</div>
 
 ![](https://komarev.com/ghpvc/?username=adrielborges)
 
