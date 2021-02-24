@@ -40,15 +40,57 @@
 
 ## :computer: Linguagens & Ferramentas:
 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
+  
 ![HTML](https://img.shields.io/badge/-HTML5-E96227?style=flat&logoColor=fff&logo=HTML5)&nbsp;
+
+</a>
+
+<a href="https://www.w3.org/Style/CSS/Overview.en.html">
+
 ![CSS](https://img.shields.io/badge/-CSS-249CDA?style=flat&logoColor=fff&logo=CSS3)&nbsp;
+
+</a>
+
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?style=flat&logoColor=fff&logo=javascript)&nbsp;
+
+<a href="https://www.typescriptlang.org/">
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
+
+</a>
+
+<a href="https://pt-br.reactjs.org/">
+  
 ![React](https://img.shields.io/badge/-React.js-48CEF7?style=flat&logoColor=fff&logo=react)&nbsp;
+
+</a>
+
+<a href="https://reactnative.dev/">
+  
 ![React-Native](https://img.shields.io/badge/-React_Native-0488B0?style=flat&logoColor=fff&logo=react)&nbsp;
+
+</a>
+
+<a href="https://nodejs.org/en/">
+  
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
+
+</a>
+
+<a href="https://www.postgresql.org/">
+  
 ![postgresql](https://img.shields.io/badge/-PostgreSQL-2D668E?style=flat&logoColor=fff&logo=postgresql)&nbsp;
+
+</a>
+
+<a href="https://git-scm.com/">
+  
 ![git](https://img.shields.io/badge/-Git-F04F33?style=flat&logoColor=fff&logo=git)&nbsp;
+
+</a>
 
 <center>
   <table>
