@@ -97,10 +97,10 @@
 </a>
 
 <a href="https://github.com/adrielborges/portfolio" target="_blank" >
-  <img alt="Portfolio - adriel borges" src="https://img.shields.io/badge/-Portifólio-000?style=flat-square&logo=P&logoColor=white&link=https://github.com/adrielborges/portfolio">
+  <img alt="Portfolio - Adriel borges" src="https://img.shields.io/badge/-Portifólio-000?style=flat-square&logo=P&logoColor=white&link=https://github.com/adrielborges/portfolio">
 </a>
 
-<a href="https://twitter.com/Adrielborges_" target="_blank" >
+<a href="https://twitter.com/1adrielborges" target="_blank" >
   <img alt="Twitter - Adriel Borges" src="https://img.shields.io/badge/-Twitter-2FB2F6?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Adrielborges_&longCache=true">
 </a>
 
