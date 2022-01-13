@@ -35,7 +35,7 @@
 
 :rocket:  &nbsp; Atualmente estou fazendo Pós-Graduação em **Engenharia de Software**, porém já sou formado em **Engenharia de Computação** e Técnico em Mecatrônica.
 
-💼 &nbsp; Trabalho como Engenheiro e Desenvolvedor **Fullstack** Jr..
+💼 &nbsp; Trabalho como Engenheiro e Desenvolvedor **Fullstack** com foco Front-end Mobile.
 
 📰  &nbsp;  Mais sobre mim: Curto novidades sobre tecnologias, gosto de ler, gosto de viajar, pratico espotes e E-esports.
 
