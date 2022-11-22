@@ -72,14 +72,14 @@
    <img alt="React-Native" src="https://img.shields.io/badge/-Git-F04F33?style=flat&logoColor=fff&logo=git">&nbsp;
 </a>
 
-<center>
+<!-- <center>
   <table>
     <tr>
         <td><img heigth="100% auto;" align="left" src="https://github-readme-stats.vercel.app/api?username=adrielborges&theme=blue&include_all_commits=true&count_private=true"/></td>
        <td><img width="410px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielborges&layout=compact&theme=blue" /></td>
     </tr>  
   </table>
-</center> 
+</center>  -->
 
 </div>
 
