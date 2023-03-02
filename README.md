@@ -37,7 +37,7 @@
 
 💼 &nbsp; Trabalho como Engenheiro e Desenvolvedor **Fullstack** com foco Front-end Mobile.
 
-📰  &nbsp;  Mais sobre mim: Curto novidades sobre tecnologias, gosto de ler, gosto de viajar, pratico espotes e E-esports.
+📰  &nbsp;  Mais sobre mim: Curto novidades sobre tecnologias, gosto de ler, gosto de viajar, pratico esportes e E-esports.
 
 <div align="center">
 
