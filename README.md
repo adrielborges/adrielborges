@@ -33,7 +33,7 @@
 
 💬  &nbsp; Sou Adriel Borges, sou natural do Rio de Janeiro, mas cresci e moro em Belém do Pará. Sou apaixonado por tecnologias e amo desenvolver projetos de software.
 
-:rocket:  &nbsp; Atualmente estou fazendo Pós-Graduação em **Engenharia de Software**, porém já sou formado em **Engenharia de Computação** e Técnico em Mecatrônica.
+:rocket:  &nbsp; Atualmente trabalhando como **Engenharo de Software** com foco em Front-end e Mobile, sou formado em **Engenharia de Computação** com pós em Eng. de Software e também Técnico em Mecatrônica.
 
 💼 &nbsp; Trabalho como Engenheiro e Desenvolvedor **Fullstack** com foco Front-end Mobile.
 
