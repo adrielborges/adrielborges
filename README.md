@@ -103,11 +103,11 @@
 <a href="https://twitter.com/1adrielborges" target="_blank" >
   <img alt="Twitter - Adriel Borges" src="https://img.shields.io/badge/-Twitter-2FB2F6?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Adrielborges_&longCache=true">
 </a>
-
+<!--
 <a href="https://www.instagram.com/1lucas_borges/" target="_blank" >
   <img alt="Instagram - Adriel Borges" src="https://img.shields.io/badge/-Instagram-DA3561?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1lucas_borges/&longCache=true">
 </a>
-
+ -->
 
 <a href="https://medium.com/@adrielluca" target="_blank" >
   <img  alt="Medium - Adriel Borges" src="https://img.shields.io/badge/-Medium-110F0E?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@adrielluca&longCache=true">
