@@ -31,11 +31,11 @@
 
 <h2 align="center"> 👋 Saudações </h2> 
 
-💬  &nbsp; Sou Adriel Borges, sou natural do Rio de Janeiro, mas cresci e moro em Belém do Pará. Sou apaixonado por tecnologias e amo desenvolver projetos de software.
+💬  &nbsp; Sou Adriel Borges, sou do Rio de Janeiro, mas cresci e moro em Belém do Pará. Sou apaixonado por tecnologias e amo desenvolver projetos de software.
 
-:rocket:  &nbsp; Atualmente sou formado em **Engenharia de Computação** com pós em **Eng. de Software** e também possuo **Técnico em Mecatrônica**.
+:rocket:  &nbsp; Sou Bacharel em **Engenharia de Computação**, pós em **Eng. de Software** e **Técnico em Mecatrônica**.
 
-💼 &nbsp; Trabalho como **Engenheiro de Software** e Desenvolvedor **Fullstack** com foco **Front-end & Mobile**.
+💼 &nbsp; Trabalho como **Engenheiro de Software** e Desenvolvedor **Fullstack** especialista em **Front-end & Mobile**.
 
 📰  &nbsp;  Mais sobre mim: Curto novidades sobre tecnologias, gosto de ler, gosto de viajar, pratico esportes e E-esports.
 
@@ -99,11 +99,10 @@
 <a href="https://github.com/adrielborges/portfolio" target="_blank" >
   <img alt="Portfolio - Adriel borges" src="https://img.shields.io/badge/-Portifólio-000?style=flat-square&logo=P&logoColor=white&link=https://github.com/adrielborges/portfolio">
 </a>
-
+<!--
 <a href="https://twitter.com/1adrielborges" target="_blank" >
   <img alt="Twitter - Adriel Borges" src="https://img.shields.io/badge/-Twitter-2FB2F6?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Adrielborges_&longCache=true">
 </a>
-<!--
 <a href="https://www.instagram.com/1lucas_borges/" target="_blank" >
   <img alt="Instagram - Adriel Borges" src="https://img.shields.io/badge/-Instagram-DA3561?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/1lucas_borges/&longCache=true">
 </a>
